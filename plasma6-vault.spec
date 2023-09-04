@@ -24,6 +24,7 @@ BuildRequires: cmake(KF6KIO)
 BuildRequires: cmake(KF6NetworkManagerQt)
 BuildRequires: cmake(KF6Plasma)
 BuildRequires: cmake(KF6WidgetsAddons)
+BuildRequires: cmake(KF6ItemModels)
 BuildRequires: cmake(KSysGuard) >= 5.27.80
 BuildRequires: cmake(Qt6)
 BuildRequires: cmake(Qt6Core)
