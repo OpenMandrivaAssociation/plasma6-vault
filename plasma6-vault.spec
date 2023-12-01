@@ -31,7 +31,6 @@ BuildRequires: cmake(Qt6Core)
 BuildRequires: cmake(Qt6DBus)
 BuildRequires: cmake(Qt6Gui)
 BuildRequires: cmake(Qt6Widgets)
-BuildRequires: plasma6-xdg-desktop-portal-kde
 Requires: cryfs
 
 %description
