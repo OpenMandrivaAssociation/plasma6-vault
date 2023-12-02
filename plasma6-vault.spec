@@ -31,6 +31,7 @@ BuildRequires: cmake(Qt6Core)
 BuildRequires: cmake(Qt6DBus)
 BuildRequires: cmake(Qt6Gui)
 BuildRequires: cmake(Qt6Widgets)
+BuildRequires: cmake(Qt6Quick)
 Requires: cryfs
 
 %description
