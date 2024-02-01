@@ -3,7 +3,7 @@
 #define git 20231104
 
 Name: plasma6-vault
-Version: 5.92.0
+Version: 5.93.0
 Release: %{?git:0.%{git}.}1
 %if 0%{?git:1}
 Source0:	https://invent.kde.org/plasma/plasma-vault/-/archive/master/plasma-vault-master.tar.bz2#/plasma-vault-%{git}.tar.bz2
