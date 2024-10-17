@@ -13,7 +13,7 @@ Source0:	https://invent.kde.org/plasma/plasma-vault/-/archive/%{gitbranch}/plasm
 Source0: http://download.kde.org/%{stable}/plasma/%{plasmaver}/plasma-vault-%{version}.tar.xz
 %endif
 Summary: Plasma Vault - a tool for encrypted storage
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: Graphical desktop/KDE
 BuildRequires: cmake(ECM)
