@@ -38,6 +38,9 @@ BuildRequires: cmake(Qt6Widgets)
 BuildRequires: cmake(Qt6Quick)
 Requires: cryfs
 
+%patchlist
+plasma-vault-qt-6.9.patch
+
 %description
 Plasma Vault - a tool for encrypted storage.
 
