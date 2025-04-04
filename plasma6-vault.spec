@@ -6,7 +6,7 @@
 
 Name: plasma6-vault
 Version: 6.3.4
-Release: %{?git:0.%{git}.}1
+Release: %{?git:0.%{git}.}2
 %if 0%{?git:1}
 Source0:	https://invent.kde.org/plasma/plasma-vault/-/archive/%{gitbranch}/plasma-vault-%{gitbranchd}.tar.bz2#/plasma-vault-%{git}.tar.bz2
 %else
